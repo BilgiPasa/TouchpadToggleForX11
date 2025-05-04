@@ -8,4 +8,4 @@ But, if you are using X11 follow these steps :
 1. install xinput by typing "sudo apt install xinput" or "sudo dnf install xinput".
 2. restart your pc (just in case).
 3. type "xinput list" at the terminal and see your touchpad id and write your touchpad id instead of 14.
-my touchpad id is 14 according to xinput (look at yours even if you changed distros).
+My touchpad id is 14 according to xinput (look at yours even if you changed distros).
