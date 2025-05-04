@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This is a touchpad toggle script for Debian and Fedora based distros if you are using X11.
+# This touchpad toggle script can be used with GNOME's settings app for to execute the command with a shortcut.
+
 # IMPORTANT NOTE! : If you are using Wayland, DON'T USE THIS! Instead; if you're using KDE or Cinnamon, use
 # their touchpad toggle. If you're using GNOME, install "Touchpad On Off" extension from the extension manager.
 
