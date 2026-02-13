@@ -1,9 +1,10 @@
 #!/bin/bash
 
 # This is a touchpad toggle script for X11 that uses xinput.
-# This touchpad toggle script can be used with GNOME's settings app for to execute the command with a shortcut.
-# This code is not fully written by me. I found the code on the internet (I don't remember when or where).
-# I might have changed the code or just took this part of the code. I don't remember exacty.
+
+# This code is not written by me. I found the code on the internet (I don't remember when or where).
+# I might have changed the code that I found or I might just took this part of the code that I found.
+# I don't remember exacty.
 
 # IMPORTANT NOTE: If you are using Wayland, DON'T USE THIS! Instead; if you're using KDE or Cinnamon, use their
 # touchpad toggle. If you're using GNOME, install "Touchpad On Off" extension from the extension manager.
