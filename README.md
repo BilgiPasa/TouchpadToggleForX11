@@ -7,7 +7,11 @@ This code is not written by me. I found the code on the internet (I don't rememb
 IMPORTANT NOTE: If you are using Wayland, DON'T USE THIS! Instead; if you're using KDE or Cinnamon, use their touchpad toggle. If you're using GNOME, install "Touchpad On Off" extension from the extension manager. (That extension is not mine. I recommend it because I have used it.)
 
 To use this script, follow these steps:
-    1. Install xinput with "sudo apt install xinput" or "sudo dnf install xinput" or with another command.
-    2. Restart your pc (just in case).
-    3. Type "xinput list" at the terminal and see your touchpad ID and write your touchpad ID instead of 14.
-    My touchpad ID was 14 according to xinput. Because of that, I wrote 14.
+
+1) Install xinput with "sudo apt install xinput" or "sudo dnf install xinput" or with another command.
+
+2) Restart your pc (just in case).
+
+3) Type "xinput list" at the terminal and see your touchpad ID and write your touchpad ID instead of 14.
+
+My touchpad ID was 14 according to xinput. Because of that, I wrote 14.
